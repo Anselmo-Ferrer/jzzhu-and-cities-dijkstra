@@ -1,23 +1,9 @@
-# Trabalho Pratico 2 - Unidade 3 - Grupo F
-
-**Disciplina:** Resolucao de Problemas com Grafos
-
-**Orientador:** Prof. Me Ricardo Carubbi
+# Trabalho Pratico
 
 ## Problema
 
 - **Nome:** Codeforces 449B - Jzzhu and Cities
 - **Link:** <https://codeforces.com/problemset/problem/449/B>
-- **Foco da unidade:** Dijkstra com analise de arestas redundantes e
-  alternativas especiais.
-
-## Integrantes
-
-| Nome | Matricula |
-| --- | --- |
-| Anselmo Teixeira | 2410414 |
-| Joao Marcelo Juca | 2410392 |
-| Thiago Victor Ferreira | 2410413 |
 
 ## Linguagem
 
